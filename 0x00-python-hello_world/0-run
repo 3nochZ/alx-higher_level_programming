@@ -1,1 +1,2 @@
-py main.py
+#!/bin/bash
+./$PYFILE
